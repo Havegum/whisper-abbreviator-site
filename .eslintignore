@@ -1,0 +1,13 @@
+*.cjs
+svelte.config.js
+node_modules
+.DS_Store
+/build
+/.svelte-kit
+/package
+bin
+vite.config.ts
+
+.env
+.env.*
+!.env.example

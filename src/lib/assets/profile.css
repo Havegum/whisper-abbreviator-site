@@ -1,0 +1,97 @@
+.whisper-abbreviator-frontend {
+  --white: #ffffff;
+  --black: #333333;
+
+  --live: #f6231e;
+
+  --serif: 'Tiempos Headline', Georgia, 'Times New Roman', Times, serif;
+  --sans-serif: 'Inter', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  --sans: var(--sans-serif);
+
+  /* Font sizes */
+  --xsmall: 11px;
+  --small: 13px;
+  --medium: 16px;
+  --large: 24px;
+  --xlarge: 24px;
+  --huge: 32px;
+  --xhuge: 38px;
+
+  /* Other sizes */
+  --s-0-5: 2px;
+  --s-1: 4px;
+  --s-1-5: 6px;
+  --s-2: 8px;
+  --s-2-5: 12px;
+  --s-3: 16px;
+  --s-3-5: 24px;
+  --s-4: 32px;
+  --s-4-5: 48px;
+  --s-5: 64px;
+
+  --ease-expo-out: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.whisper-abbreviator-frontend .btn {
+  display: inline-block;
+  border-radius: var(--s-1);
+  font: inherit;
+  line-height: 1;
+  padding: var(--s-2);
+  text-align: center;
+  white-space: nowrap;
+  user-select: none;
+  background-color: var(--blue-600);
+  border: 2px solid var(--blue-600);
+  color: var(--blue-700);
+
+  font-weight: 500;
+
+  cursor: pointer;
+}
+
+.whisper-abbreviator-frontend .btn:hover {
+  background-color: var(--blue-700);
+  border-color: var(--blue-700);
+  color: var(--blue-800);
+}
+
+.whisper-abbreviator-frontend .btn:active {
+  background-color: var(--blue-800);
+  border-color: var(--blue-800);
+  color: var(--blue-900);
+}
+
+.whisper-abbreviator-frontend .btn:disabled {
+  background-color: var(--gray-200);
+  border-color: var(--gray-200);
+  color: var(--gray-700);
+  cursor: not-allowed;
+}
+
+.whisper-abbreviator-frontend .btn-danger {
+  background-color: var(--red-600);
+  border-color: var(--red-600);
+  color: var(--red-700);
+}
+
+.whisper-abbreviator-frontend .btn-danger:hover {
+  background-color: var(--red-700);
+  border-color: var(--red-700);
+  color: var(--red-800);
+}
+
+.whisper-abbreviator-frontend .btn-danger:active {
+  background-color: var(--red-800);
+  border-color: var(--red-800);
+  color: var(--red-900);
+}
+
+.whisper-abbreviator-frontend .btn-secondary {
+  background-color: transparent !important;
+}
+
+.whisper-abbreviator-frontend .btn:not(.btn-secondary) {
+  color: var(--white);
+}

@@ -1,0 +1,166 @@
+{
+  "payload": {
+    "message": [
+      "Man",
+      "e",
+      " is",
+      " a",
+      " large",
+      " and",
+      " dangerous",
+      " creature",
+      " that",
+      " the",
+      " players",
+      " encountered",
+      " in",
+      " the",
+      " Garden",
+      " of",
+      " the",
+      " Moon",
+      " during",
+      " session",
+      " ",
+      "99",
+      ".",
+      " Mane",
+      " has",
+      " a",
+      " collection",
+      " of",
+      " valuable",
+      " items",
+      " and",
+      " is",
+      " particularly",
+      " interested",
+      " in",
+      " shiny",
+      " and",
+      " pretty",
+      " items",
+      ",",
+      " textiles",
+      ",",
+      " clothing",
+      ",",
+      " and",
+      " certain",
+      " metals",
+      " and",
+      " minerals",
+      ".",
+      " The",
+      " players",
+      " traded",
+      " with",
+      " Mane",
+      " and",
+      " acquired",
+      " valuable",
+      " items",
+      " such",
+      " as",
+      " a",
+      " night",
+      "cap",
+      " of",
+      " vision",
+      " and",
+      " a",
+      " crystall",
+      "ine",
+      " ch",
+      "isel",
+      " in",
+      " exchange",
+      " for",
+      " gem",
+      "stones",
+      ",",
+      " dragon",
+      " scales",
+      ",",
+      " and",
+      " magical",
+      " tools",
+      " [",
+      "1",
+      ",",
+      " ",
+      "2",
+      "]."
+    ],
+    "context": [
+      {
+        "id": 0,
+        "uuid": "118370e6-8400-4ed8-a044-3a982d141672",
+        "role": "context",
+        "done": true,
+        "payload": {
+          "message": [
+            "## Question\n- What is the significance of the shiny items acquired from Mane and the deal made with Main?\n- What other valuable and shiny items does Mane have in their collection?\n- What other types of textiles and clothing does Mane have in their collection?\n- Are there any other magical items or artifacts that Mane might be interested in trading for?\n- What is the significance of the ancient inscription from Ori?\n- Who or what created the magical event triggered by the scroll case?\n- What are the mysterious entities the players are about to fight?"
+          ],
+          "session": "99",
+          "type": "summary"
+        }
+      },
+      {
+        "id": 1,
+        "uuid": "bd964d93-dbda-4817-95b2-f10458aa1b22",
+        "role": "context",
+        "done": true,
+        "payload": {
+          "message": [
+            "## Observation\n- The players trade with Mane and acquire valuable items such as a nightcap of vision and a crystalline chisel.\n- Mane is interested in shiny and pretty items, textiles, clothing, and certain metals and minerals.\n- The players make a deal with Main to bring back shiny items in exchange for a vial of remembrance and other items.\n- They engage in a trading session with Mane and trade various items for shiny and valuable objects.\n- Mane has a collection of textiles and clothing sized for the Moonsworn.\n- The players discover ruins in the Garden of the Moon and find an inscription representing the people from Ori.\n- They find a scroll case held by skeletal hands, which triggers a magical event.\n- The session ends with the players about to engage in combat with mysterious entities."
+          ],
+          "session": "99",
+          "type": "summary"
+        }
+      },
+      {
+        "id": 2,
+        "uuid": "b02b3ff2-4204-4895-a296-03d31e92f006",
+        "role": "context",
+        "done": true,
+        "payload": {
+          "message": [
+            "## Summary\nIn this part of the session, the players continue their exploration in the Garden of the Moon. They trade with Mane, a large and dangerous creature, and acquire valuable items such as a nightcap of vision and a crystalline chisel. They also barter with Main, a spiritborn, and make a deal to bring back shiny items in exchange for a vial of remembrance and other items. The players then engage in a trading session with Mane, trading various items including gemstones, dragon scales, and magical tools for shiny and valuable objects. Mane expresses interest in moonstones, tears, textiles, clothing, and certain metals and minerals. \n\nLater, the players continue their exploration and come across ruins in the Garden of the Moon. They discover an old inscription representing the people from Ori, predating the Ark and the Imperium. They investigate further and find a scroll case held by skeletal hands, which triggers a magical event. The session ends with the players about to engage in combat with mysterious entities."
+          ],
+          "session": "99",
+          "type": "summary"
+        }
+      },
+      {
+        "id": 3,
+        "uuid": "32655ae5-0ac3-4916-997d-f7b4be056ed2",
+        "role": "context",
+        "done": true,
+        "payload": {
+          "message": [
+            "Yeah.\nOkay.\nIt sounds like\nyou have some history checks to make,\nso let's start with a general topic.\nYeah.\nSo would you\nlike to investigate this with moss\nand the implication of the shells,\nif there are any references to that?\nDo you want to look into, to see if\nthere are correlations between the ashen\nand what kind of knowledge\nrelating to them are\nwithin this library?\nWhere's your mind?\nI think,\nIvor has no possibility to do any\nresearch by herself,\nso she can't\nwrite schools on books\nin order to\nrealize some things.\nSo at least check\nthe ashen, like can she find\nany references anywhere\nto them?\nYeah.\nWho of Cade or Deimos\nhave you helped with the translation?\nWhat do you think, Cade?\nI don't mind if...\nI mean, Deimos is\nbusy with his tips.\nHe's so busy.\nGet help from Cade.\nSo this will take a couple of hours,\nso it's not necessarily that Deimos\nis buried in the city all the time, but\nwe want to get to a point where I have\na quota with, just how long are you\nspending within this place?\nHours.\nYeah. Days.\nYou know it.\nSo, which one is it,\nIvor? Cade's?\nCade.\nIn that case, Cade, give me a\nhistory check with advantage.\nThey help you with\nexactly nothing.\nI think...\nAnd this would be very tough research,\nbecause you find yourself going through many\nbooks and manuscripts and old scrolls\nof information.\nI think the only thing that's\nclearly indicated for you\nis maybe this.\nInformation that's in the library about\nthe race they call the ashen.\nYou find references to\nhumanoids with these bat-like\nwings and ears,\nsome characteristic traits that are like\nthat sounds like Adia's people.\nMost of what you find out is that they are\nreferred to as one of\nthe races that are a large part\nof the Arcane Imperium.\nAnd you don't find any\nnewer references, like cross-references\nwith what you know Adia told you\nabout Urus and\nAkari.\nNone of the information that comes from them\nyou find correlating here, so it's a clear mismatch.\nYou don't get 100%\nconfirmation, but you don't\nfind out\nwhat time period necessarily\nwith an 8.\nExcept for the fact that none of the\ninformation you have previously matches this.\nThis looks like\ntalking. And I think that would\nbe fairly obvious.\nAs Dimas mentioned\nearlier, there is a large time gap\nbetween the information stored here\nand what you know.\nInteresting.\nIt's nice to have that\nconfirmed.\nUnfortunately, an 8 doesn't\nhave as much detail on specific events\nthat you could call out.\nI think that would be easily\ngleamed information even with an 8.\nAlright.\n...\nMhm.\nThe ones he sees like\nOh, this one is almost crumbling already.\nMhm.\n...\nMhm.\nYeah.\nDo you want to investigate more of the other themes as well?\nI mean, sure.\nI can check out\nMoss, or try to figure\n...\nRight.\nI like this picture of you"
+          ],
+          "session": "98",
+          "type": "transcription"
+        }
+      },
+      {
+        "id": 4,
+        "uuid": "8d77827b-d882-40e1-b08d-2a6ee064da42",
+        "role": "context",
+        "done": true,
+        "payload": {
+          "message": [
+            "How many arcanamite chiropaces do you need?\nSix. No, seven.\n750 for each of those.\nJeez.\nI think I had a rough deal when I traded, actually.\nI thought it was a good deal, but...\nI can trade all of them.\nI should also say that Mane's priorities about what she's worth, and Grabor's, are two different worlds.\nBecause whoever might look at this from a, can I make something useful or interesting from this,\nwhereas Mane is shiny.\nDo you think he's worth a pair?\nYes, a pair.\nHe's worth 6,000 or something.\nThey're relatively big.\nIt's a set. If you buy it, you get both.\nSo if I buy it, I get both?\nIf you buy it, you get the left bracer and the right bracer, which is a set.\nIt's not four, it's one.\nFrom the pieces I've gathered, it seems nice.\nSo, that's up to you.\nI can say that this shop has...\nThere's a bigger chance that mundane things will be melted down and used again.\nThe magical stuff will probably stay, or they might be sold.\nWho knows if they get more travelers like you here.\nAnd if they're wealthy enough.\nOh, it's formatted in such a way that I won't be able to see the sign.\nIt's referencing the table.\nSection... There we go.\nHuh.\nI knew it was one of those I didn't have time to import correctly.\nYes, that's indeed the Hooded Lantern radius.\nThat is the Hooded Lantern, yep.\nThank you.\nI can't...\nWhat are you trying to do?\nI can't choose.\nI got to choose, so there's probably only a few things I can't click on.\nI got it, I got it.\nThere might be something that has...\nI updated a while ago, so there might be something that has been ruined.\nI haven't put them up correctly compared to the new one.\nI should have converted everything, but there might have been an error on some small things.\nI don't know.\nRight, so it's up to you.\nIt's up to you if you want to trade in everything.\nAnd if so, if you want to spend anything.\nI think you can just buy it straight up.\nI guess... What was it? 1900 gold?\nYou're thinking of Wayfinder's Light? Yes, 1900 gold.\nThat was 2000 he wanted, or that was the value of Deep Silver.\nYes, Deep Silver he wanted.\nSo, 100 GP worth of Starlight.\nStarlight worth 100 gold coins.\nActually, I'll just do this.\nI think you can do it via...\nI got it!\nOkay, and then I'll just delete the Quicksilver grind, I don't need to save on it.\nIn midsheet. And I can just delete the Dragonscale as well.\nYes, since it's traded.\nAre Starlight consumables?\nYou can choose how you want to track it. If you want to track it as gold, which is fine.\nSo you take 247 instead of 447 gold.\nOr you can just make a tools...\nOr I want to take a loot, and write Starlight worth 100 gold pieces."
+          ],
+          "session": "99",
+          "type": "transcription"
+        }
+      }
+    ]
+  },
+  "id": "bdfd151d-174d-4d3b-9413-7d9a5cf367bb",
+  "role": "assistant",
+  "done": true
+}
